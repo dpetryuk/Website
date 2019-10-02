@@ -1,3 +1,3 @@
-import TypedLine from './TypedLine';
+import Typed from './Typed';
 
-export default TypedLine;
+export default Typed;
